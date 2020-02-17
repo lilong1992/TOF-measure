@@ -4,5 +4,5 @@ Function triggertimefastcal() can be used separately to find PMT pulse time. The
 
 The TOF program will need MGM's TWaveForm to work. To install Twaveform, see https://github.com/lilong1992/TWaveform
 
-The program takes the rootified data from SIS3316 digitizer. Assuming channel 0 is the PMT signal and channel 4 is the BPM signal. To run the program, simply type beamenergytof(filename) in ROOT. 
+The program takes the rootified data from SIS3316 digitizer. Assuming channel 0 is the PMT signal and channel 4 is the BPM signal. To run the program, simply type beamenergytof(filename) in ROOT. Sample data is also provided.
 
